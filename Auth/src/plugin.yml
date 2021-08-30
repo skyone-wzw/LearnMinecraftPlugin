@@ -1,0 +1,12 @@
+name: Auth
+main: skyone.auth.Auth
+version: 1.0
+api-version: 1.17
+commands:
+  login:
+    aliases:
+      - "lg"
+      - "l"
+      - "L"
+    description: "Login or register"
+    usage: "/login <PASSWORD>"
