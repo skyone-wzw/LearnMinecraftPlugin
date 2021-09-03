@@ -1,0 +1,8 @@
+main: skyone.dashboard.DashBoard
+name: DashBoard
+version: 1.0
+api-version: 1.17
+commands:
+  cd:
+    usage: "/cd"
+    description: "Open menu"
