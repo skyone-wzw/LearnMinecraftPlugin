@@ -1,0 +1,10 @@
+main: skyone.enderchest.EnderChest
+name: EnderChest
+version: 1.0
+api-version: 1.17
+commands:
+  EnderChest:
+    aliases:
+      - ec
+    usage: "/ec | EnderChest"
+    description: "Open the ender chest"

@@ -1,4 +1,4 @@
-package ec;
+package skyone.enderchest;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
